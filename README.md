@@ -1,5 +1,9 @@
-<h1 align="center"> Hello 👋, I'm Matthew! </h1>
-<p>https://github.com/thechosenginger/thechosenginger/blob/output/github-contribution-grid-snake.svg</p>
+## Hello 👋, I'm Matthew!
+  -:student: I recently graduated from Hack Reactors Full Stack Software Engineering Immersive
+  -:house: I am currently working on Java, and Spring
+  -:hash: I am seeking a role as a Fullstack or Backend Engineer
+  
+![Snake animation](https://github.com/thechosenginger/thechosenginger/blob/output/github-contribution-grid-snake.svg)
 <!--
 **thechosenginger/thechosenginger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
