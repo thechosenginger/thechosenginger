@@ -1,6 +1,4 @@
 <h1 align="center"> 👋 Hello, I'm Matthew! </h1>
-  
-![Snake animation](https://github.com/thechosenginger/thechosenginger/blob/output/github-contribution-grid-snake.svg)
 
 I am a Fullstack Software Engineer from Austin, TX. I grew up enjoying the outdoors in Colorado before joining the United States Army as a medic, where I spent time training others on acute medical care techniques. After leaving the Army, my wife and I returned to Denver, CO where I worked as a Commercial Account Manager for a roofing and construction company. In this role I was responsible for reseaching, developing, and nurturing residential, and commercial clientelle across the country. I worked as a subject matter expert within a team of industry specialists that travelled across the country reviewing and scoping construction projects from start to finish. The transition to a software engineer has been a life long goal and passion of mine. I eagerly embrace challenging problems and enjoy developing creative solutions. 
 
@@ -79,3 +77,5 @@ I am a Fullstack Software Engineer from Austin, TX. I grew up enjoying the outdo
 <hr />
 <br />
 
+# Github Contributions <a name="github_contributions"></a>
+![Snake animation](https://github.com/thechosenginger/thechosenginger/blob/output/github-contribution-grid-snake.svg)
