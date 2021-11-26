@@ -79,3 +79,10 @@ I am a Fullstack Software Engineer from Austin, TX. I grew up enjoying the outdo
 
 # Github Contributions <a name="github_contributions"></a>
 ![Snake animation](https://github.com/thechosenginger/thechosenginger/blob/output/github-contribution-grid-snake.svg)
+
+# Application Demo
+<br>
+<img src="https://tinyimg.io/i/5FG8soG.gif" alt="application-demo1">
+<br>
+<img src="https://tinyimg.io/i/Qmcm9tQ.gif" alt="application-demo2">
+<br><br>
